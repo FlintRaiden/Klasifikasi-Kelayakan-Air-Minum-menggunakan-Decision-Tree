@@ -1,0 +1,75 @@
+{
+  "features": [
+    "ph",
+    "Hardness",
+    "Solids",
+    "Chloramines",
+    "Sulfate",
+    "Conductivity",
+    "Organic_carbon",
+    "Trihalomethanes",
+    "Turbidity"
+  ],
+  "medians": {
+    "ph": 7.035036795196814,
+    "Hardness": 196.92806093779086,
+    "Solids": 20866.335842223954,
+    "Chloramines": 7.118161983426347,
+    "Sulfate": 333.073545745888,
+    "Conductivity": 424.94133573042495,
+    "Organic_carbon": 14.214779561341032,
+    "Trihalomethanes": 66.56570894421057,
+    "Turbidity": 3.9696018473949692
+  },
+  "ranges": {
+    "ph": [
+      0.0,
+      13.999999999999998
+    ],
+    "Hardness": [
+      47.432,
+      323.124
+    ],
+    "Solids": [
+      320.942611274359,
+      61227.19600771213
+    ],
+    "Chloramines": [
+      0.3520000000000003,
+      13.127000000000002
+    ],
+    "Sulfate": [
+      129.00000000000003,
+      481.0306423059972
+    ],
+    "Conductivity": [
+      181.483753985146,
+      753.3426195583046
+    ],
+    "Organic_carbon": [
+      2.1999999999999886,
+      28.30000000000001
+    ],
+    "Trihalomethanes": [
+      0.7379999999999995,
+      124.0
+    ],
+    "Turbidity": [
+      1.45,
+      6.739
+    ]
+  },
+  "max_depth": 4,
+  "accuracy_test": 0.6295731707317073,
+  "feature_importances": {
+    "ph": 0.23556092492027222,
+    "Hardness": 0.07398560116952581,
+    "Solids": 0.055100194861434505,
+    "Chloramines": 0.13098407584534272,
+    "Sulfate": 0.46503533417682047,
+    "Conductivity": 0.03933386902660407,
+    "Organic_carbon": 0.0,
+    "Trihalomethanes": 0.0,
+    "Turbidity": 0.0
+  }
+}
